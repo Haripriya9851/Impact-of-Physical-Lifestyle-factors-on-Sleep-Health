@@ -2,6 +2,9 @@
 
 Hello! As part of my Introduction to analytics class, I analyzed the Working Group’s Sleep Health and Lifestyle Dataset from Kaggle with R programming. This dataset, provides a broad spectrum of variables associated with sleep and daily routines. My key objective is to identify patterns, trends, and insights into the factors influencing sleep health, guiding recommendations for improving sleep quality for working age group population.
 
+**Please Refer R Code:** [R Code](https://github.com/Haripriya9851/Impact-of-Physical-Lifestyle-factors-on-Sleep-Health/blob/main/Ramamoorthy_Project4.R)
+**Please Refer Report on insights and Recommendations:** [Report](https://github.com/Haripriya9851/Impact-of-Physical-Lifestyle-factors-on-Sleep-Health/blob/main/Ramamoorthy_Project4.pdf)
+
 ## **Dataset Description:**
 - **Source of the dataset:** [sleep-health-and-lifestyle](https://www.kaggle.com/datasets/henryshan/sleep-health-and-lifestyle)
 - This dataset, contains 373 rows and 13 columns, encompasses a broad spectrum of variables associated with sleep and daily routines of the working group people aged between 24 to 59 years.
