@@ -1,6 +1,6 @@
 # Impact-of-Physical-Lifestyle-factors-on-Sleep-Health
 
-I analyzed the Working Group’s Sleep Health and Lifestyle Dataset from Kaggle. This dataset, provides a broad spectrum of variables associated with sleep and daily routines. My key objective is to identify patterns, trends, and insights into the factors influencing sleep health, guiding recommendations for improving sleep quality for working age group population.
+Hello! As part of my Introduction to analytics class, I analyzed the Working Group’s Sleep Health and Lifestyle Dataset from Kaggle with R programming. This dataset, provides a broad spectrum of variables associated with sleep and daily routines. My key objective is to identify patterns, trends, and insights into the factors influencing sleep health, guiding recommendations for improving sleep quality for working age group population.
 
 ## **Dataset Description:**
 - **Source of the dataset:** [sleep-health-and-lifestyle](https://www.kaggle.com/datasets/henryshan/sleep-health-and-lifestyle)
